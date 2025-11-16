@@ -5,6 +5,7 @@ const Dashboard = () =>{
         <div>
             <Sidebar/>
             <h1>Dashboard</h1>
+            <div>Metrics will appear here</div>
         </div>
     )
 }
